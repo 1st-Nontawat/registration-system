@@ -1,2 +1,2 @@
-# registration-system
- data base SQL
+# php-pdo-registration-system
+php-pdo-registration-system
